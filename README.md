@@ -31,13 +31,11 @@
 
 ## 📊 GitHub Stats
 
-![Ismayil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isko2003&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isko2003&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Isko2003&theme=darkhub&no-frame=true&row=1&column=7)
 
 ## 🗣️ Languages
 
